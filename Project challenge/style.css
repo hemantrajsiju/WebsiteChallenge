@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100&family=Poppins:wght@400;700&family=Roboto:wght@400;700&display=swap');
+
+*{
+    font-family: 'poppins';
+    margin: 0;
+    padding: 0;
+}
+
+.top-section{
+    background-image: url(/images/bg-header-desktop.png);
+    margin: 34px;
+    padding: 10px;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    margin: 34px;
+    padding: 10px;
+
+}
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.head h1{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.para p{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.button{
+    margin-top: 2.2rem;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+}
+
+.btn1{
+    padding: 9px 14px;
+    border-radius: 22px;
+    color: white;
+    background-color: rgb(22, 219, 150);
+    font-weight: bold;
+    font-size: 1em;
+    margin: 3px 3px;
+    cursor: pointer;
+}
+
+.btn2{
+    padding: 9px 14px;
+    border-radius: 22px;
+    color: white;
+    background-color: rgb(74, 109, 236);
+    font-weight: bold;
+    font-size: 1em;
+    margin: 3px 3px;
+    cursor: pointer;
+}
+
+.hd2 h2{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.sec2 p{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.com {
+    display: flex;
+    justify-content: left;
+    margin: 34px 0;
+    padding: 20px 0;
+}
+.com1 {
+    margin-top: 6rem;
+}
+.com1 h3{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 0px 20px;
+}
+.com1 p{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 0px 20px;
+}
+
+.clip{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+.device-logo{
+    display: flex;
+    justify-content: center;
+}
+.four1{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    margin: 0.4rem;
+    padding: 5px;
+}
+.four2{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    margin: 0.4rem;
+    padding: 5px;
+}
+.four-section{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 0.4rem;
+    padding: 5px;
+}
+
+.image-four{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2rem;
+    padding: 10px;
+}
+
+.fifth{
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+    margin: 4rem;
+    padding: 10px;
+}
+.fifth h2{
+    margin: 0.5rem;
+    padding: 10px;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+.btn3{
+    padding: 9px 14px;
+    border-radius: 22px;
+    color: white;
+    background-color: rgb(22, 219, 150);
+    font-weight: bold;
+    font-size: 1em;
+    margin: 3px 3px;
+    cursor: pointer;
+}
+.btn4{
+    padding: 9px 14px;
+    border-radius: 22px;
+    color: white;
+    background-color: rgb(74, 109, 236);
+    font-weight: bold;
+    font-size: 1rem;
+    margin: 3px 3px;
+    cursor: pointer;
+}
+
+.footer-section{
+    background-color: rgb(248, 243, 243);
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem;
+    padding: 10px;
+}
+.footer-image{
+    display: flex;
+    justify-items: left;
+    margin: 2rem;
+    padding: 5px;
+}
+.footer-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+    padding: 10px;
+}
+.social-icon{
+    margin: 5rem 0;
+    padding: 10px;
+}
